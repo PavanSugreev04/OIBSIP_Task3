@@ -36,4 +36,5 @@ To get a local copy up and running follow these simple steps:
 - Basic understanding of Java programming language.
 
 ## OUTPUT
-![OutputImage]([ATM_Interface.png]
+<p align="center"><img src="ATM_Interface.png" alt="Output" height=450 width=225></p>
+  
