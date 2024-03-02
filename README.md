@@ -35,4 +35,5 @@ To get a local copy up and running follow these simple steps:
 - Java Development Kit (JDK) installed on your machine.
 - Basic understanding of Java programming language.
 
-
+## OUTPUT
+- ATM Interface.png
