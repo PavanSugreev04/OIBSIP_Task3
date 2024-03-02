@@ -36,4 +36,4 @@ To get a local copy up and running follow these simple steps:
 - Basic understanding of Java programming language.
 
 ## OUTPUT
-- ATM Interface.png
+![OutputImage]([ATM Interface.png]
